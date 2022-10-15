@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Mundi-App](https://www.mundi-app.tk)
 
-- 🌱 Actualmente estoy aprendiendo **React-typescript, Vite y buenas practicas**
+- 🌱 En este momento estoy aprendiendo **React-typescript, Vite y buenas practicas**
 
 - 👯 Me gustaria colaborar en **React y nodejs Typescript projects**
 
